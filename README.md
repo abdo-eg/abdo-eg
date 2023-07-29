@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah!
 - 👀 I’m interested in web development & cybersecurity
-- 🌱 I’m currently learning CS50x
+- 🌱 I’m currently learning @ ITI - full-stack web development using python.
 
 
 <!--- - 📫 How to reach me ...
