@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Abdullah!
-- 👀 I’m interested in web development & cybersecurity
-- 🌱 I’m currently learning @ ITI - full-stack web development using python.
+
+- 👀 I’m passionate about web development and cybersecurity, constantly exploring new technologies and techniques to enhance my skills.
+- 🎓 ITI Graduate with a solid foundation in computer science and programming principles.
+- 💼 Seeking a new challenge as a full-stack developer to leverage my expertise and contribute to innovative projects.
 
 
 <!--- - 📫 How to reach me ...
